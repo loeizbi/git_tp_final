@@ -39,7 +39,7 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 Noms des étudiants : 
 * FIRMIN Elsa
 * GARCHI Adam
-* KHEDJAM Loeiz-bi test
+* KHEDJAM Loeiz-bi
 
 Date du jour : 28/01/2021
 
